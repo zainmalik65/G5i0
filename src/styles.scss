@@ -1,3 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
 @import '~ngx-owl-carousel-o/lib/styles/scss/owl.carousel';
 @import '~ngx-owl-carousel-o/lib/styles/scss/owl.theme.default';
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/scss/bootstrap";
+// $fa-font-path: "../node_modules/font-awesome/fonts";
+@import "../node_modules/font-awesome/scss/font-awesome.scss";
+.bg-color{
+    color: cadetblue;
+}
